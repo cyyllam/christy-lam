@@ -1,18 +1,31 @@
 ---
 title: "Christy Lam"
-description: |
-  Welcome to my page. I hope you enjoy it!
+image: "clam-sq.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/christy-lam-5766b290/"
+  - label: Twitter
+    url: "https://twitter.com/wammielammie"
+  - label: GitHub
+    url: "https://github.com/cyyllam"
+output:
+  postcards::trestles
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+# Hi there!
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+***
 
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
+I am a data programmer and analyst living in Seattle. 
+I work with the Puget Sound Regional Council (PSRC) as part of their data science team working on general automation projects, dashboard building, and promoting R. When not dabbling in code, I'm catching up on the latest K-drama and improving my chocolate chip cookie baking skills. 
 
-```
+### Education
+
+**Certificate in Front-end Development**  
+University of Washington Professional and Continuing Education, 2020
+
+**BA in Geography**  
+University of Washington, 2007
+
 
