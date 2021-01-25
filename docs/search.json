@@ -2,19 +2,18 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "Christy Lam",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-25T11:19:01-08:00"
+      "contents": "\r\n\r\n          \r\n          \r\n          Christy Lam\r\n          \r\n          \r\n          Home\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Christy Lam\r\n          \r\n          \r\n            \r\n              I am a data programmer and analyst living in Seattle. Currently I work with the Puget Sound Regional Council. I love Argentine tango and chocolate chip cookies.\r\n            \r\n            \r\n              I am a data programmer and analyst living in Seattle. Currently I work with the Puget Sound Regional Council. I love Argentine tango and chocolate chip cookies.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-01-25T13:30:24-08:00"
     },
     {
       "path": "index.html",
-      "title": "my_distill",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Christy Lam",
+      "description": "Welcome to my page. I hope you enjoy it!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-25T11:19:11-08:00"
+      "last_modified": "2021-01-25T13:30:26-08:00"
     }
   ],
   "collections": []

@@ -1,8 +1,9 @@
 name: "."
-title: "my_distill"
+title: "Christy Lam"
 description: |
   my_distill
 output_dir: "docs"
+theme: before-i-sleep.css
 navbar:
   right:
     - text: "Home"

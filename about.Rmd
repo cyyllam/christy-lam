@@ -1,10 +1,16 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "Christy Lam"
+image: "clam.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/christy-lam-5766b290/"
+  - label: Twitter
+    url: "https://twitter.com/wammielammie"
+  - label: GitHub
+    url: "https://github.com/cyyllam"
+output:
+  postcards::jolla
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
+ 
+I am a data programmer and analyst living in Seattle. 
+Currently I work with the Puget Sound Regional Council. I love Argentine tango and chocolate chip cookies.
