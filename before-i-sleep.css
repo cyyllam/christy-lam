@@ -86,14 +86,6 @@ d-appendix {
 
 /*-- Additional custom styles --*/
 
-.categories li > a:hover {
-    color: #00ff00;
-    border-bottom: 1px #00ff00;
-}
-
-p a:hover  {
-    color: #00ff00;
-}
 
 /* Change appearance of headers */
 h1, h2, h3, h4, h5 {
@@ -101,13 +93,15 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Use specific font in the body of the text */
+
+/*
 html, body, p {
     font-weight: 200;
-    /*line-height: 1.3rem; */
-    /*font-style: normal;*/
 }
+*/
 
 ul > li::marker {
     font-weight: 700;
     font-size: 1.125em;
 }
+

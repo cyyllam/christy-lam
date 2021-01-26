@@ -796,14 +796,6 @@
 
           /*-- Additional custom styles --*/
 
-          .categories li > a:hover {
-              color: #00ff00;
-              border-bottom: 1px #00ff00;
-          }
-
-          p a:hover  {
-              color: #00ff00;
-          }
 
           /* Change appearance of headers */
           h1, h2, h3, h4, h5 {
@@ -811,16 +803,18 @@
           }
 
           /* Use specific font in the body of the text */
+
+          /*
           html, body, p {
               font-weight: 200;
-              /*line-height: 1.3rem; */
-              /*font-style: normal;*/
           }
+          */
 
           ul > li::marker {
               font-weight: 700;
               font-size: 1.125em;
-          }</style>
+          }
+          </style>
           <style type="text/css">
           /* base style */
 
@@ -986,9 +980,11 @@
           <nav class="distill-site-nav distill-site-header">
           <div class="nav-left">
           <a href="index.html" class="title">Christy Lam</a>
+          <input id="distill-search" class="nav-search hidden" type="text" placeholder="Search..."/>
           </div>
           <div class="nav-right">
           <a href="index.html">Home</a>
+          <a href="blog.html">Blog</a>
           <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
           </div>
           </nav>
@@ -1043,13 +1039,18 @@
             <div id="hi-there" class="section level1">
             <h1>Hi there!</h1>
             <hr />
-            <p>I am a data programmer and analyst living in Seattle. I work with the Puget Sound Regional Council (PSRC) as part of their data science team working on general automation projects, dashboard building, and promoting R. When not dabbling in code, I’m catching up on the latest K-drama and improving my chocolate chip cookie baking skills.</p>
-            <div id="education" class="section level3">
-            <h3>Education</h3>
-            <p><strong>Certificate in Front-end Development</strong><br />
+            <p>I am a data programmer and analyst with the Puget Sound Regional Council (PSRC). As a member of the data science team, I work on general automation projects, dashboard building, and promoting R (see my post on <a href="http://psrc.github.io/2020/Why-I-like-R">why I like R</a>). When not dabbling in code, I’m catching up on the latest K-drama and improving my chocolate chip cookie baking skills.</p>
+            <div id="education" class="section level2">
+            <h2>Education</h2>
+            <p>Certificate in Front-end Development<br />
             University of Washington Professional and Continuing Education, 2020</p>
-            <p><strong>BA in Geography</strong><br />
+            <p>BA in Geography (Geographic Information Systems)<br />
             University of Washington, 2007</p>
+            </div>
+            <div id="projects" class="section level2">
+            <h2>Projects</h2>
+            <p><a href="https://psrc.github.io/intro-ggplot2/">Intro to ggplot2</a>: An introductory course for PSRC on data visualization with R’s <code>tidyverse</code> via <code>ggplot2</code>.</p>
+            <p><a href="">Intro to Shiny</a>: Coming soon Spring 2021, how to build web applications with the <code>Shiny</code> R package.</p>
             </div>
             </div>
           </div>
@@ -1094,13 +1095,18 @@
               <div id="hi-there" class="section level1">
               <h1>Hi there!</h1>
               <hr />
-              <p>I am a data programmer and analyst living in Seattle. I work with the Puget Sound Regional Council (PSRC) as part of their data science team working on general automation projects, dashboard building, and promoting R. When not dabbling in code, I’m catching up on the latest K-drama and improving my chocolate chip cookie baking skills.</p>
-              <div id="education" class="section level3">
-              <h3>Education</h3>
-              <p><strong>Certificate in Front-end Development</strong><br />
+              <p>I am a data programmer and analyst with the Puget Sound Regional Council (PSRC). As a member of the data science team, I work on general automation projects, dashboard building, and promoting R (see my post on <a href="http://psrc.github.io/2020/Why-I-like-R">why I like R</a>). When not dabbling in code, I’m catching up on the latest K-drama and improving my chocolate chip cookie baking skills.</p>
+              <div id="education" class="section level2">
+              <h2>Education</h2>
+              <p>Certificate in Front-end Development<br />
               University of Washington Professional and Continuing Education, 2020</p>
-              <p><strong>BA in Geography</strong><br />
+              <p>BA in Geography (Geographic Information Systems)<br />
               University of Washington, 2007</p>
+              </div>
+              <div id="projects" class="section level2">
+              <h2>Projects</h2>
+              <p><a href="https://psrc.github.io/intro-ggplot2/">Intro to ggplot2</a>: An introductory course for PSRC on data visualization with R’s <code>tidyverse</code> via <code>ggplot2</code>.</p>
+              <p><a href="">Intro to Shiny</a>: Coming soon Spring 2021, how to build web applications with the <code>Shiny</code> R package.</p>
               </div>
               </div>
             </div>

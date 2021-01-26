@@ -17,15 +17,18 @@ site: distill::distill_website
 
 ***
 
-I am a data programmer and analyst living in Seattle. 
-I work with the Puget Sound Regional Council (PSRC) as part of their data science team working on general automation projects, dashboard building, and promoting R. When not dabbling in code, I'm catching up on the latest K-drama and improving my chocolate chip cookie baking skills. 
+I am a data programmer and analyst with the Puget Sound Regional Council (PSRC). As a member of the data science team, I work on general automation projects, dashboard building, and promoting R (see my post on [why I like R](http://psrc.github.io/2020/Why-I-like-R)). When not dabbling in code, I'm catching up on the latest K-drama and improving my chocolate chip cookie baking skills. 
 
-### Education
+## Education
 
-**Certificate in Front-end Development**  
+Certificate in Front-end Development  
 University of Washington Professional and Continuing Education, 2020
 
-**BA in Geography**  
+BA in Geography (Geographic Information Systems)  
 University of Washington, 2007
 
+## Projects
 
+[Intro to ggplot2](https://psrc.github.io/intro-ggplot2/): An introductory course for PSRC on data visualization with R's `tidyverse` via `ggplot2`.
+
+[Intro to Shiny](): Coming soon Spring 2021, how to build web applications with the `Shiny` R package.

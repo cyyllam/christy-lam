@@ -1,0 +1,23 @@
+---
+title: "Hello World"
+description: |
+  My first distill site
+author:
+  - name: Christy Lam
+date: 01-25-2021
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - web development
+  - distill
+---
+
+ 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Hello World! I feel incredibly grateful to be a recipient of RStudio's 2021 Diversity Scholarship. The theme for the scholarship focused on how we are sharing our knowledge of R. Subsequently, the workshops offered for the recipients centered on teaching and how to share and publish our content. 
+
+In the last several years, I've been interested in honing my front-end development skills. I've had a primer with HTML, CSS, and a tiny dose of JavaScript. I've delayed working on my portfolio because I need to brush up on vue.js and JavaScript, so when I learned about RStudio's `distill` through the *Introduce Yourself Online* workshop I was delighted. I'll go back to learning JavaScript and vue.js eventually but for now I'm diving into R because, why not? 
