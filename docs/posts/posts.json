@@ -12,17 +12,20 @@
     "date": "2021-01-26",
     "categories": [
       "presentation",
-      "portfolio"
+      "portfolio",
+      "ggplot2"
     ],
-    "contents": "\r\nEvent: R Learning Series 2020-21 @ Puget Sound Regional CouncilDate: January 12th, 2021Github Source Code\r\n\r\n\r\n\r\n",
-    "preview": "posts/2021-01-26-an-introduction-to-ggplot2/intro-ggplot2-site-image.jpg",
-    "last_modified": "2021-01-26T17:58:45-08:00",
-    "input_file": {}
+    "contents": "\r\nI had the opportunity to teach ggplot2 as part of PSRC’s virtual R Learning Series. The R Learning Series began in the Fall of 2020 and consists of 9 modules–each 1.5 hours, to teach staff about R. Topics ranged from the fundamentals to specific packages and statistical methods.\r\nThe course website was created using a mix of Rmarkdown and custom HTML and CSS with Bootstrap styling.\r\n\r\nEvent: R Learning Series 2020-21 @ Puget Sound Regional CouncilDate: January 12th, 2021Github Source Code\r\n\r\n\r\n\r\n",
+    "preview": "posts/2021-01-26-an-introduction-to-ggplot2/intro-ggplot2-site.png",
+    "last_modified": "2021-01-26T21:34:09-08:00",
+    "input_file": {},
+    "preview_width": 1219,
+    "preview_height": 917
   },
   {
     "path": "posts/2021-01-25-welcome/",
     "title": "Hello World",
-    "description": "My first distill site",
+    "description": "Building my first personal site with `distill` by R",
     "author": [
       {
         "name": "Christy Lam",
@@ -34,9 +37,9 @@
       "web development",
       "distill"
     ],
-    "contents": "\r\nHello World! I feel incredibly grateful to be a recipient of RStudio’s 2021 Diversity Scholarship. The theme for the scholarship focused on how we are sharing our knowledge of R. Subsequently, the workshops offered for the recipients centered on teaching and how to share and publish our content.\r\nIn the last several years, I’ve been interested in honing my front-end development skills. I’ve had a primer with HTML, CSS, and a tiny dose of JavaScript. I’ve delayed working on my portfolio because I need to brush up on vue.js and JavaScript, so when I learned about RStudio’s distill through the Introduce Yourself Online workshop I was delighted. I’ll go back to learning JavaScript and vue.js eventually but for now I’m diving into R because, why not?\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-01-25T17:40:14-08:00",
+    "contents": "\r\nHello World! Welcome to my very first distill site (yes, this site that you’re browsing through!). I started building this website as part of an exercise in a workshop offered to recipients of RStudio’s 2021 Diversity Scholarship.\r\nIn the last several years, I’ve been interested in honing my front-end development skills. I’ve had a primer with HTML, CSS, and a tiny dose of JavaScript. I’ve been meaning to create a site for my portolio but I’ve consistently delayed working on it because I needed to brush up on vue.js and JavaScript. When I learned about RStudio’s distill through the Introduce Yourself Online workshop I was delighted.\r\nI’ll go back to learning JavaScript and vue.js eventually but for now, moaR R!\r\n\r\n\r\n\r\n",
+    "preview": "posts/2021-01-25-welcome/logo.png",
+    "last_modified": "2021-01-26T21:24:22-08:00",
     "input_file": {}
   }
 ]

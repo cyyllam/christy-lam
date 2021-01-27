@@ -7,13 +7,14 @@ author:
   - name: Christy Lam
     url: {}
 date: 01-26-2021
-preview: intro-ggplot2-site-image.jpg
+preview: intro-ggplot2-site.png
 output:
   distill::distill_article:
     self_contained: false
 categories:
   - presentation
   - portfolio
+  - ggplot2
 ---
 
 
@@ -21,8 +22,15 @@ categories:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+I had the opportunity to teach ggplot2 as part of PSRC's virtual [R Learning Series](https://psrc.github.io/r-basics-I/). The R Learning Series began in the Fall of 2020 and consists of 9 modules--each 1.5 hours, to teach staff about R. Topics ranged from the fundamentals to specific packages and statistical methods. 
+
+The course website was created using a mix of Rmarkdown and custom HTML and CSS with Bootstrap styling. 
+
+[![landing page of intro-ggplot2 course site](intro-ggplot2-site-link.png)](https://psrc.github.io/intro-ggplot2/)
+
+
 **Event:** R Learning Series 2020-21 @ Puget Sound Regional Council  
 **Date:** January 12th, 2021  
-[Github Source Code](https://psrc.github.io/intro-ggplot2/)
+[Github Source Code](https://github.com/psrc/intro-ggplot2)
 
 

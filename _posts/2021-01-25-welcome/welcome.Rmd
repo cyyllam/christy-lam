@@ -1,10 +1,11 @@
 ---
 title: "Hello World"
 description: |
-  My first distill site
+  Building my first personal site with `distill` by R
 author:
   - name: Christy Lam
 date: 01-25-2021
+preview: logo.png
 output:
   distill::distill_article:
     self_contained: false
@@ -18,6 +19,8 @@ categories:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Hello World! I feel incredibly grateful to be a recipient of RStudio's 2021 Diversity Scholarship. The theme for the scholarship focused on how we are sharing our knowledge of R. Subsequently, the workshops offered for the recipients centered on teaching and how to share and publish our content. 
+Hello World! Welcome to my very first `distill` site (yes, this site that you're browsing through!). I started building this website as part of an exercise in a workshop offered to recipients of [RStudio's 2021 Diversity Scholarship](https://blog.rstudio.com/2020/11/30/diversity-scholarships/).  
 
-In the last several years, I've been interested in honing my front-end development skills. I've had a primer with HTML, CSS, and a tiny dose of JavaScript. I've delayed working on my portfolio because I need to brush up on vue.js and JavaScript, so when I learned about RStudio's `distill` through the *Introduce Yourself Online* workshop I was delighted. I'll go back to learning JavaScript and vue.js eventually but for now I'm diving into R because, why not? 
+In the last several years, I've been interested in honing my front-end development skills. I've had a primer with HTML, CSS, and a tiny dose of JavaScript. I've been meaning to create a site for my portolio but I've consistently delayed working on it because I needed to brush up on vue.js and JavaScript. When I learned about RStudio's `distill` through the *Introduce Yourself Online* workshop I was delighted. 
+
+I'll go back to learning JavaScript and vue.js eventually but for now, moaR R! 
