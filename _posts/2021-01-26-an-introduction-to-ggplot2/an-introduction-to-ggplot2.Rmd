@@ -1,0 +1,27 @@
+---
+title: "An Introduction to ggplot2"
+description: |
+  A module in the R Learning Series for PSRC
+author:
+  - name: Christy Lam
+    url: {}
+date: 01-26-2021
+preview: intro-ggplot2-site-image.png
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - presentation
+  - portfolio
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**Event:** R Learning Series 2020-21 @ Puget Sound Regional Council  
+**Date:** January 12th, 2021  
+[Github Source Code](https://psrc.github.io/intro-ggplot2/)
+
+

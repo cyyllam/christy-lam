@@ -1,5 +1,25 @@
 [
   {
+    "path": "posts/2021-01-26-an-introduction-to-ggplot2/",
+    "title": "An Introduction to ggplot2",
+    "description": "A module in the R Learning Series for PSRC",
+    "author": [
+      {
+        "name": "Christy Lam",
+        "url": {}
+      }
+    ],
+    "date": "2021-01-26",
+    "categories": [
+      "presentation",
+      "portfolio"
+    ],
+    "contents": "\r\nEvent: R Learning Series 2020-21 @ Puget Sound Regional CouncilDate: January 12th, 2021Github Source Code\r\n\r\n\r\n\r\n",
+    "preview": "posts/2021-01-26-an-introduction-to-ggplot2/intro-ggplot2-site-image.png",
+    "last_modified": "2021-01-26T17:41:25-08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2021-01-25-welcome/",
     "title": "Hello World",
     "description": "My first distill site",
