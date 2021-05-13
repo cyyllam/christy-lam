@@ -27,7 +27,3 @@ University of Washington Professional and Continuing Education, 2020
 BA in Geography (Geographic Information Systems)  
 University of Washington, 2007
 
-## Now
-
-Developing an introductory class on Shiny as part of PSRC's R Learning Series 2020-21
-
