@@ -17,7 +17,7 @@ site: distill::distill_website
 
 ***
 
-I am a data programmer and analyst with the Puget Sound Regional Council (PSRC). As a member of the data science team, I work on general automation projects, dashboard building, and promoting R (see my post on [why I like R](http://psrc.github.io/2020/Why-I-like-R)). When not dabbling in code, I'm catching up on the latest K-drama, improving my chocolate chip cookie baking skills, and admiring beautiful UI designs. 
+I am a data programmer and analyst with the Puget Sound Regional Council (PSRC). As a member of the data science team, I work on general automation projects, dashboard building, and promoting R (see my post on [why I like R](http://psrc.github.io/2020/Why-I-like-R)). When not dabbling in code, I'm catching up on the latest K-drama, anime, and admiring beautiful UI designs. 
 
 ## Education
 
