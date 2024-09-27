@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2024-09-26-positconf2024/",
+    "title": "PositConf::2024",
+    "description": "A scholarship to the Posit Conference in Seattle!",
+    "author": [
+      {
+        "name": "Christy Lam",
+        "url": {}
+      }
+    ],
+    "date": "2024-09-26",
+    "categories": [],
+    "contents": "\r\nI was one of 40 lucky recipients of the Posit Opportunity Scholarship! My workshop and registration fees were covered so that I could attend the conference here at home in Seattle in August 2024. The scholarship also helped pay for transportation, lodging, and a little extra for dinner or other things here and there.\r\nIt wasn’t only a blessing for me to receive the recognition, but given that PSRC conference funds are limited, it was great that it also gave another colleague a chance to attend. One of the highlights of this particular conference was that most of my data science team colleagues were able to attend.\r\nA benefit of filling out the application was that it forced me to reflect on my R journey. This past year, I was working on the Community Profiles dashboard. Originally created by my department director, I later became heavily involved refactoring it to include shiny modules amid other refactoring. I also added the Racial Disparate Impacts and dabbled with JS to have some tooltip features.\r\nI spent time adding echarts4r functions to psrcplot because I’ve learned how to more successfully debug R packages. It was always challenging for me, but luckily, thanks to my supervisor who showed me load_all(), it’s been so much more pleasant. We may or may not use the functions I added, but going through that process was worthwhile.\r\nMy last PSRC R workshop was on code organization where I taught basics in functions, lists, and loops. Prior to that one was the second session of an intro to git and github. At the time of writing my application, I was hoping to plan one on purrr, and luckily I am in the process of developing one.\r\nAgain, feeling really blessed to have received this opportunity!\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2024-09-26T18:17:35-07:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2021-05-12-an-introduction-to-shiny/",
     "title": "An Introduction to shiny",
     "description": "A module in the R Learning Series for PSRC.",
@@ -17,7 +34,7 @@
     ],
     "contents": "\r\nAfter wrapping up the course on ggplot2 in January 2021, I quickly switched gears to prepare for a two-part session on shiny for PSRC’s virtual R Learning Series.\r\nThe two-part series totaled a little over 3 hours. Topics ranged from how to get started to building the UI, creating the server logic, styling with packages (shinythemes, bslib) and CSS, and deployment.\r\nThe course website was created using distill and slides were created with xaringan and xaringanextra.\r\n\r\nEvent: R Learning Series 2020-21 @ Puget Sound Regional CouncilDate: April 27, 2021 & May 11, 2021Github Source Code, class material\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-05-12-an-introduction-to-shiny/intro-shiny-site.png",
-    "last_modified": "2021-05-12T23:34:00-07:00",
+    "last_modified": "2024-08-26T14:34:18-07:00",
     "input_file": {}
   },
   {
@@ -38,7 +55,7 @@
     ],
     "contents": "\r\nI had the opportunity to teach ggplot2 as part of PSRC’s virtual R Learning Series. The R Learning Series began in the Fall of 2020 and consists of 9 modules–each 1.5 hours, to teach staff about R. Topics ranged from the fundamentals to specific packages and statistical methods.\r\nThe course website was created using a mix of Rmarkdown and custom HTML and CSS with Bootstrap styling.\r\n\r\nEvent: R Learning Series 2020-21 @ Puget Sound Regional CouncilDate: January 12th, 2021Github Source Code\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-01-26-an-introduction-to-ggplot2/intro-ggplot2-site.png",
-    "last_modified": "2021-01-26T21:34:09-08:00",
+    "last_modified": "2024-08-26T14:34:18-07:00",
     "input_file": {},
     "preview_width": 1219,
     "preview_height": 917
@@ -60,7 +77,7 @@
     ],
     "contents": "\r\nHello World! Welcome to my very first distill site (yes, this site that you’re browsing through!). I started building this website as part of an exercise in a workshop offered to recipients of RStudio’s 2021 Diversity Scholarship.\r\nIn the last several years, I’ve been interested in honing my front-end development skills. I’ve had a primer with HTML, CSS, and a tiny dose of JavaScript. I’ve been meaning to create a site for my portolio but I’ve consistently delayed working on it because I needed to brush up on vue.js and JavaScript. When I learned about RStudio’s distill through the Introduce Yourself Online workshop I was delighted.\r\nI’ll go back to learning JavaScript and vue.js eventually but for now, moaR R!\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-01-25-welcome/logo.png",
-    "last_modified": "2021-01-26T21:24:22-08:00",
+    "last_modified": "2024-08-26T14:34:18-07:00",
     "input_file": {}
   }
 ]

@@ -1,0 +1,33 @@
+---
+title: "PositConf::2024"
+description: |
+  A scholarship to the Posit Conference in Seattle!
+author:
+  - name: Christy Lam
+    url: {}
+date: 2024-09-26
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I was one of 40 lucky recipients of the Posit Opportunity Scholarship! My workshop and registration fees were covered so that I could attend the conference here at home in Seattle in August 2024. The scholarship also helped pay for transportation, lodging, and a little extra for dinner or other things here and there.
+
+It wasn't only a blessing for me to receive the recognition, but given that PSRC conference funds are limited, it was great that it also gave another colleague a chance to attend. One of the highlights of this particular conference was that most of my data science team colleagues were able to attend.
+
+A benefit of filling out the application was that it forced me to reflect on my R journey. This past year, I was working on the [Community Profiles](https://psrcwa.shinyapps.io/community-profiles/) dashboard. Originally created by my department director, I later became heavily involved refactoring it to include shiny modules amid other refactoring. I also added the Racial Disparate Impacts and dabbled with JS to have some tooltip features.
+
+I spent time adding echarts4r functions to [psrcplot](https://github.com/psrc/psrcplot) because I've learned how to more successfully debug R packages. It was always challenging for me, but luckily, thanks to my supervisor who showed me `load_all()`, it's been **so** much more pleasant. We may or may not use the functions I added, but going through that process was worthwhile.
+
+My last PSRC R workshop was on [code organization](https://psrc.github.io/intro-code-org-guide/) where I taught basics in functions, lists, and loops. Prior to that one was the second session of an [intro to git and github](https://psrc.github.io/git-tutorial/). At the time of writing my application, I was hoping to plan one on `purrr`, and luckily I am in the process of developing one.
+
+Again, feeling really blessed to have received this opportunity!
+
+
+
+
